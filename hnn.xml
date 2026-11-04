@@ -5,70 +5,6 @@
     <display-name>Watch HNN Live</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9A86A052-6EA7-459F-BBF1-895477233914/0-16x9.jpg?width=250" />
   </channel>
-  <programme start="20261104083500 +0000" stop="20261104090000 +0000" channel="2001">
-    <title lang="en">We the People 2026</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/e37cc3c4-cfda-435a-8e8e-6a58bf8126cc/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006404850" />
-  </programme>
-  <programme start="20261104090000 +0000" stop="20261104100000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/39c866ea-0f4e-4523-8d6c-b59df2c9ad36/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006467595" />
-  </programme>
-  <programme start="20261104100000 +0000" stop="20261104103000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4cffa55a-7b88-49e2-b983-047321798032/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006563265" />
-  </programme>
-  <programme start="20261104103000 +0000" stop="20261104113000 +0000" channel="2001">
-    <title lang="en">We the People 2026</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4af302a7-3b97-4b4b-9af0-25ca7b105909/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006642097" />
-  </programme>
-  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9cbab267-dcdd-429b-85bc-af3cc656a320/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784023821" />
-  </programme>
-  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/e5f428ec-cc27-4590-b370-695cc140756d/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006792842" />
-  </programme>
-  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="2001">
-    <title lang="en">Yetta Gibson</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/7b9e8c61-52fa-464c-81da-cb67e5c28ff5/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006938897" />
-  </programme>
-  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/8f4d3b21-5693-46ab-bd04-ca1f80ba7370/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007004533" />
-  </programme>
-  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/48469f7f-e764-4fce-b75f-526f22949c6e/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007055179" />
-  </programme>
-  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/b8adbd35-4f9d-4847-ac77-2d91a439b74a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007119978" />
-  </programme>
-  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 4:30</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZwxesdxEmqULzICpMD4THzwM.png" />
-  </programme>
-  <programme start="20261104150000 +0000" stop="20261104160000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 5:00</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw3098de43SxUYqZGdY2LJ3w.png" />
-  </programme>
   <programme start="20261104160000 +0000" stop="20261104170000 +0000" channel="2001">
     <title lang="en">Hawaii News Now: Sunrise at 6:00</title>
     <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
@@ -1493,5 +1429,74 @@
     <title lang="en">We the People 2026</title>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4af302a7-3b97-4b4b-9af0-25ca7b105909/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006642097" />
+  </programme>
+  <programme start="20261111113000 +0000" stop="20261111120000 +0000" channel="2001">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9cbab267-dcdd-429b-85bc-af3cc656a320/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784023821" />
+  </programme>
+  <programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/e5f428ec-cc27-4590-b370-695cc140756d/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006792842" />
+  </programme>
+  <programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="2001">
+    <title lang="en">Yetta Gibson</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/7b9e8c61-52fa-464c-81da-cb67e5c28ff5/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006938897" />
+  </programme>
+  <programme start="20261111130000 +0000" stop="20261111133000 +0000" channel="2001">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/8f4d3b21-5693-46ab-bd04-ca1f80ba7370/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007004533" />
+  </programme>
+  <programme start="20261111133000 +0000" stop="20261111140000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/48469f7f-e764-4fce-b75f-526f22949c6e/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007055179" />
+  </programme>
+  <programme start="20261111140000 +0000" stop="20261111143000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/b8adbd35-4f9d-4847-ac77-2d91a439b74a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007119978" />
+  </programme>
+  <programme start="20261111143000 +0000" stop="20261111153000 +0000" channel="2001">
+    <title lang="en">Investigate TV +</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/a762c6a1-2e51-4c0e-b513-37eca58b288e/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784182107" />
+  </programme>
+  <programme start="20261111153000 +0000" stop="20261111163000 +0000" channel="2001">
+    <title lang="en">Uncovered: ANF Investigates</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/252bbc58-8cca-4285-9301-860fce477623/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007189481" />
+  </programme>
+  <programme start="20261111163000 +0000" stop="20261111170000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/07e99969-1342-4a79-817c-8aca4e3e7639/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784527862" />
+  </programme>
+  <programme start="20261111170000 +0000" stop="20261111173000 +0000" channel="2001">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/a68c0bc4-d336-42ef-a6e4-67df610a3c2c/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007257856" />
+  </programme>
+  <programme start="20261111173000 +0000" stop="20261111180000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/2f83e9fb-de0a-4542-8e46-ba23e3cf306a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007343632" />
+  </programme>
+  <programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="2001">
+    <title lang="en">We the People 2026</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9b7635ca-44dc-41ba-b3a4-23d427ca0dca/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786985113765" />
+  </programme>
+  <programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="2001">
+    <title lang="en">Local News Live</title>
+    <desc lang="en">News of the day from the experts who know their communities best – our local journalists across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/eeb2318d-3a5b-44ca-bd74-295af37cc935/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007425808" />
   </programme>
 </tv>
