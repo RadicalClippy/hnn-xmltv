@@ -5,84 +5,6 @@
     <display-name>Watch HNN Live</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9A86A052-6EA7-459F-BBF1-895477233914/0-16x9.jpg?width=250" />
   </channel>
-  <programme start="20261108103000 +0000" stop="20261108110000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9a2d8274-5591-4bc9-821f-c7b2cf3d49e3/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786845740142" />
-  </programme>
-  <programme start="20261108110000 +0000" stop="20261108113000 +0000" channel="2001">
-    <title lang="en">The Good Side</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/d42225c6-78f2-4a8b-9fc2-935ee49cbc58/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846006457" />
-  </programme>
-  <programme start="20261108113000 +0000" stop="20261108123000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/6164c778-e363-4a19-ba94-d291ac49120f/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846068076" />
-  </programme>
-  <programme start="20261108123000 +0000" stop="20261108130000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/dddc41f0-fd5f-4e0f-835d-e8c19e184e82/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846138006" />
-  </programme>
-  <programme start="20261108130000 +0000" stop="20261108133000 +0000" channel="2001">
-    <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/21588232-91d7-43d3-9a73-93b1aae40454/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846203967" />
-  </programme>
-  <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="2001">
-    <title lang="en">InvestigateTV+</title>
-    <desc lang="en">An examination and discussion of politics, personal finance, reports of government corruption, consumer alerts and healthcare issues.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/f33313c0-14a0-40b8-9fd3-db86ab586d61/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846278396" />
-  </programme>
-  <programme start="20261108140000 +0000" stop="20261108143000 +0000" channel="2001">
-    <title lang="en">The Good Side</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/5b2af349-f687-42df-8514-c63d1360df40/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846342241" />
-  </programme>
-  <programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="2001">
-    <title lang="en">The Good Side</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/99a2dc6d-2ae1-4358-b70e-b22ff92e0bcd/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846403229" />
-  </programme>
-  <programme start="20261108150000 +0000" stop="20261108160000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/06818e12-3b5f-470f-8f1e-bd27b3edb554/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846481208" />
-  </programme>
-  <programme start="20261108160000 +0000" stop="20261108163000 +0000" channel="2001">
-    <title lang="en">We the People</title>
-    <desc lang="en">We the People - Celebrating 250 Years</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/39ec4c93-dfe3-4b05-9fc3-9ad9780d0d20/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846553421" />
-  </programme>
-  <programme start="20261108163000 +0000" stop="20261108170000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/bef3e726-f914-4cf9-9c5d-6fc4c9e5de0a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846625226" />
-  </programme>
-  <programme start="20261108170000 +0000" stop="20261108180000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 7:00am</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/HKBhDvqFjdsYyjDfak7q7tD_T12NkMVnM1Q36zAFSn0.png" />
-  </programme>
-  <programme start="20261108180000 +0000" stop="20261108190000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 8:00</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/HKBhDvqFjdsYyjDfak7q7nwzk7EZ-4KTIFbpFhbGHRg.png" />
-  </programme>
-  <programme start="20261108190000 +0000" stop="20261108193000 +0000" channel="2001">
-    <title lang="en">We the People</title>
-    <desc lang="en">We the People - Celebrating 250 Years</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/476bb3c1-fe9b-47ef-b45c-39469a6f58be/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786847343068" />
-  </programme>
   <programme start="20261108193000 +0000" stop="20261108200000 +0000" channel="2001">
     <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
     <category lang="en">News</category>
@@ -1507,5 +1429,80 @@
     <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/21588232-91d7-43d3-9a73-93b1aae40454/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846203967" />
+  </programme>
+  <programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="2001">
+    <title lang="en">InvestigateTV+</title>
+    <desc lang="en">An examination and discussion of politics, personal finance, reports of government corruption, consumer alerts and healthcare issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/f33313c0-14a0-40b8-9fd3-db86ab586d61/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846278396" />
+  </programme>
+  <programme start="20261115140000 +0000" stop="20261115143000 +0000" channel="2001">
+    <title lang="en">The Good Side</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/5b2af349-f687-42df-8514-c63d1360df40/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846342241" />
+  </programme>
+  <programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="2001">
+    <title lang="en">The Good Side</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/99a2dc6d-2ae1-4358-b70e-b22ff92e0bcd/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846403229" />
+  </programme>
+  <programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="2001">
+    <title lang="en">Uncovered: ANF Investigates</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/06818e12-3b5f-470f-8f1e-bd27b3edb554/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846481208" />
+  </programme>
+  <programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="2001">
+    <title lang="en">We the People</title>
+    <desc lang="en">We the People - Celebrating 250 Years</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/39ec4c93-dfe3-4b05-9fc3-9ad9780d0d20/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846553421" />
+  </programme>
+  <programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="2001">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/bef3e726-f914-4cf9-9c5d-6fc4c9e5de0a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786846625226" />
+  </programme>
+  <programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="2001">
+    <title lang="en">The Good Side</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/83bfe36f-5ca2-4906-9f2f-7a1e6ec54986/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786847098688" />
+  </programme>
+  <programme start="20261115173000 +0000" stop="20261115183000 +0000" channel="2001">
+    <title lang="en">On the Record</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/3a01ffbd-4e4e-4824-aedd-0ee1735165a7/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786847215512" />
+  </programme>
+  <programme start="20261115183000 +0000" stop="20261115190000 +0000" channel="2001">
+    <title lang="en">Politics Unplugged</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9d7319ed-9a3f-408f-a830-27685c0b6f3a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786847286774" />
+  </programme>
+  <programme start="20261115190000 +0000" stop="20261115193000 +0000" channel="2001">
+    <title lang="en">We the People</title>
+    <desc lang="en">We the People - Celebrating 250 Years</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/476bb3c1-fe9b-47ef-b45c-39469a6f58be/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786847343068" />
+  </programme>
+  <programme start="20261115193000 +0000" stop="20261115200000 +0000" channel="2001">
+    <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/5d64380e-0903-4833-a849-6f58e1aa55f3/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786847408805" />
+  </programme>
+  <programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="2001">
+    <title lang="en">We the People 2026</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/6e14aa6c-6ecb-4fdb-bd2d-138ad2f0478a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786847479065" />
+  </programme>
+  <programme start="20261115210000 +0000" stop="20261115220000 +0000" channel="2001">
+    <title lang="en">On the Record</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/736bcf48-7ddd-445b-8e0c-0b5f01de1101/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786847538778" />
+  </programme>
+  <programme start="20261115220000 +0000" stop="20261115223000 +0000" channel="2001">
+    <title lang="en">InvestigateTV+</title>
+    <desc lang="en">An examination and discussion of politics, personal finance, reports of government corruption, consumer alerts and healthcare issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/082d5b6b-90fe-4e38-be28-74324e29f916/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786847598799" />
   </programme>
 </tv>
