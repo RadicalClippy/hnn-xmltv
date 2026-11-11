@@ -5,125 +5,6 @@
     <display-name>Watch HNN Live</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9A86A052-6EA7-459F-BBF1-895477233914/0-16x9.jpg?width=250" />
   </channel>
-  <programme start="20261111033000 +0000" stop="20261111040000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now at 5:30pm</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/3414d544-3232-4472-8a9d-26d216e3f28a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1776908395889" />
-  </programme>
-  <programme start="20261111040000 +0000" stop="20261111043000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now at 6:00</title>
-    <desc lang="en">Major news from today and what to expect for your evening, can be found on Hawaii News Now at 6p. Chief Meteorologist Jennifer Robbins digs into your First Alert Weather forecast.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw5J9QodHlKeDwWxfsoau7_o.png" />
-  </programme>
-  <programme start="20261111043000 +0000" stop="20261111050000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now at 6:30</title>
-    <desc lang="en">Major news from today and what to expect for your evening, can be found on Hawaii News Now at 6p. Chief Meteorologist Jennifer Robbins digs into your First Alert Weather forecast.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw3SKjZUpbTSU6vuPLxoObzU.png" />
-  </programme>
-  <programme start="20261111050000 +0000" stop="20261111053000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/2b3091cc-e560-4404-b7db-6dd07021bbfb/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787004856220" />
-  </programme>
-  <programme start="20261111053000 +0000" stop="20261111060000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/0e27b55c-ad56-48f1-aa8d-ad3522678bdf/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787005771137" />
-  </programme>
-  <programme start="20261111060000 +0000" stop="20261111063000 +0000" channel="2001">
-    <title lang="en">We the People</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/fbae0416-ba23-4a90-919f-2b916008057b/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787005902739" />
-  </programme>
-  <programme start="20261111063000 +0000" stop="20261111070000 +0000" channel="2001">
-    <title lang="en">Investigate TV +</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4a2500ea-14c0-47ed-affe-d84a61ec0a77/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006165581" />
-  </programme>
-  <programme start="20261111070000 +0000" stop="20261111073500 +0000" channel="2001">
-    <title lang="en">Hawaii News Now at 9:00</title>
-    <desc lang="en">You don't have to stay up late to get caught up on the news of the day. At 9p, Hawaii News Now covers the major stories of the day, breaking news and your First Alert Weather forecast.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/8462743/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785482618060" />
-  </programme>
-  <programme start="20261111073500 +0000" stop="20261111080000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/97539824-2a8c-4526-b0d3-d296f5dab25c/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006336646" />
-  </programme>
-  <programme start="20261111080000 +0000" stop="20261111083500 +0000" channel="2001">
-    <title lang="en">Hawaii News Now at 10:00</title>
-    <desc lang="en">Breaking news, major stories of the day and First Alert Weather get you informed and ready for tomorrow. The Hawaii News Now team delivers a fast-paced newscast at 10p.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw2OBGMtfo5wdRz0ZZmP0jac.png" />
-  </programme>
-  <programme start="20261111083500 +0000" stop="20261111090000 +0000" channel="2001">
-    <title lang="en">We the People 2026</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/e37cc3c4-cfda-435a-8e8e-6a58bf8126cc/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006404850" />
-  </programme>
-  <programme start="20261111090000 +0000" stop="20261111100000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/39c866ea-0f4e-4523-8d6c-b59df2c9ad36/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006467595" />
-  </programme>
-  <programme start="20261111100000 +0000" stop="20261111103000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4cffa55a-7b88-49e2-b983-047321798032/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006563265" />
-  </programme>
-  <programme start="20261111103000 +0000" stop="20261111113000 +0000" channel="2001">
-    <title lang="en">We the People 2026</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4af302a7-3b97-4b4b-9af0-25ca7b105909/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006642097" />
-  </programme>
-  <programme start="20261111113000 +0000" stop="20261111120000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9cbab267-dcdd-429b-85bc-af3cc656a320/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784023821" />
-  </programme>
-  <programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/e5f428ec-cc27-4590-b370-695cc140756d/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006792842" />
-  </programme>
-  <programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="2001">
-    <title lang="en">Yetta Gibson</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/7b9e8c61-52fa-464c-81da-cb67e5c28ff5/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006938897" />
-  </programme>
-  <programme start="20261111130000 +0000" stop="20261111133000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/8f4d3b21-5693-46ab-bd04-ca1f80ba7370/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007004533" />
-  </programme>
-  <programme start="20261111133000 +0000" stop="20261111140000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/48469f7f-e764-4fce-b75f-526f22949c6e/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007055179" />
-  </programme>
-  <programme start="20261111140000 +0000" stop="20261111143000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/b8adbd35-4f9d-4847-ac77-2d91a439b74a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007119978" />
-  </programme>
-  <programme start="20261111143000 +0000" stop="20261111150000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 4:30</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZwxesdxEmqULzICpMD4THzwM.png" />
-  </programme>
-  <programme start="20261111150000 +0000" stop="20261111160000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 5:00</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw3098de43SxUYqZGdY2LJ3w.png" />
-  </programme>
   <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="2001">
     <title lang="en">Hawaii News Now: Sunrise at 6:00</title>
     <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
@@ -418,170 +299,15 @@
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/3414d544-3232-4472-8a9d-26d216e3f28a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1776908395889" />
   </programme>
-  <programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="2001">
+  <programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="2001">
     <title lang="en">We the People 2026</title>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/39b116f9-773c-4c52-aa13-3fe84f826ccc/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787004538575" />
   </programme>
-  <programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now at 6:30</title>
-    <desc lang="en">Major news from today and what to expect for your evening, can be found on Hawaii News Now at 6p. Chief Meteorologist Jennifer Robbins digs into your First Alert Weather forecast.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw3SKjZUpbTSU6vuPLxoObzU.png" />
-  </programme>
   <programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now</title>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThY23LUPHUhOumeRpSkGMP3X-wJXFM8xdM.png" />
-  </programme>
-  <programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/0e27b55c-ad56-48f1-aa8d-ad3522678bdf/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787005771137" />
-  </programme>
-  <programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="2001">
-    <title lang="en">We the People</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/fbae0416-ba23-4a90-919f-2b916008057b/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787005902739" />
-  </programme>
-  <programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="2001">
-    <title lang="en">Investigate TV +</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4a2500ea-14c0-47ed-affe-d84a61ec0a77/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006165581" />
-  </programme>
-  <programme start="20261113070000 +0000" stop="20261113073500 +0000" channel="2001">
-    <title lang="en">Hawaii News Now at 9:00</title>
-    <desc lang="en">You don't have to stay up late to get caught up on the news of the day. At 9p, Hawaii News Now covers the major stories of the day, breaking news and your First Alert Weather forecast.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/8462743/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785482618060" />
-  </programme>
-  <programme start="20261113073500 +0000" stop="20261113080000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/97539824-2a8c-4526-b0d3-d296f5dab25c/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006336646" />
-  </programme>
-  <programme start="20261113080000 +0000" stop="20261113083500 +0000" channel="2001">
-    <title lang="en">Hawaii News Now at 10:00</title>
-    <desc lang="en">Breaking news, major stories of the day and First Alert Weather get you informed and ready for tomorrow. The Hawaii News Now team delivers a fast-paced newscast at 10p.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw2OBGMtfo5wdRz0ZZmP0jac.png" />
-  </programme>
-  <programme start="20261113083500 +0000" stop="20261113090000 +0000" channel="2001">
-    <title lang="en">We the People 2026</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/e37cc3c4-cfda-435a-8e8e-6a58bf8126cc/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006404850" />
-  </programme>
-  <programme start="20261113090000 +0000" stop="20261113100000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/39c866ea-0f4e-4523-8d6c-b59df2c9ad36/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006467595" />
-  </programme>
-  <programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="2001">
     <title lang="en">The Good Side Show</title>
     <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4cffa55a-7b88-49e2-b983-047321798032/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006563265" />
-  </programme>
-  <programme start="20261113103000 +0000" stop="20261113113000 +0000" channel="2001">
-    <title lang="en">We the People 2026</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4af302a7-3b97-4b4b-9af0-25ca7b105909/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006642097" />
-  </programme>
-  <programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9cbab267-dcdd-429b-85bc-af3cc656a320/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784023821" />
-  </programme>
-  <programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/e5f428ec-cc27-4590-b370-695cc140756d/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006792842" />
-  </programme>
-  <programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="2001">
-    <title lang="en">Yetta Gibson</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/7b9e8c61-52fa-464c-81da-cb67e5c28ff5/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006938897" />
-  </programme>
-  <programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/8f4d3b21-5693-46ab-bd04-ca1f80ba7370/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007004533" />
-  </programme>
-  <programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/48469f7f-e764-4fce-b75f-526f22949c6e/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007055179" />
-  </programme>
-  <programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/b8adbd35-4f9d-4847-ac77-2d91a439b74a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007119978" />
-  </programme>
-  <programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 4:30</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZwxesdxEmqULzICpMD4THzwM.png" />
-  </programme>
-  <programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 5:00</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw3098de43SxUYqZGdY2LJ3w.png" />
-  </programme>
-  <programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 6:00</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw3qf4_VI_W2R9XUZcud2ULI.png" />
-  </programme>
-  <programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 7:00am</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/HKBhDvqFjdsYyjDfak7q7tD_T12NkMVnM1Q36zAFSn0.png" />
-  </programme>
-  <programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 8:00</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/HKBhDvqFjdsYyjDfak7q7nwzk7EZ-4KTIFbpFhbGHRg.png" />
-  </programme>
-  <programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="2001">
-    <title lang="en">Local News Live</title>
-    <desc lang="en">News of the day from the experts who know their communities best – our local journalists across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/eeb2318d-3a5b-44ca-bd74-295af37cc935/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007425808" />
-  </programme>
-  <programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="2001">
-    <title lang="en">Local News Live</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/c8071439-f3e6-4c4b-8f60-78bbe09dfb66/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786991184081" />
-  </programme>
-  <programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="2001">
-    <title lang="en">Local News Live</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/a08fe815-2aa8-4696-8ca1-37bf7b1497b2/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786991281416" />
-  </programme>
-  <programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="2001">
-    <title lang="en">This is Now: Midday Newscast</title>
-    <desc lang="en">Catch up on news from all over Hawaii with live reports from our digital news center. Ashley Nagaoka and Dillon Ancheta bring you breaking news and trending topics in this midday report.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/RSCrxXxY3Tg9dwX8QXf5xwrJbpO_vIxPysVtPUpXHPA.png" />
-  </programme>
-  <programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="2001">
-    <title lang="en">Local News Live</title>
-    <desc lang="en">News of the day from the experts who know their communities best – our local journalists across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/602b2ea9-a77b-4dd5-bfa9-11b1c0782dc9/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786995413210" />
-  </programme>
-  <programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="2001">
-    <title lang="en">Local News Live</title>
-    <desc lang="en">News of the day from the experts who know their communities best – our local journalists across the country.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/7720abdc-9a71-4081-b9fe-b36f53795834/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787003755237" />
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/2b3091cc-e560-4404-b7db-6dd07021bbfb/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787004856220" />
   </programme>
   <programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="2001">
     <title lang="en">Local News Live</title>
@@ -686,166 +412,10 @@
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/11d2a9e4-8f43-4278-b326-bded643e066f/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786751263319" />
   </programme>
-  <programme start="20261114100000 +0000" stop="20261114103000 +0000" channel="2001">
-    <title lang="en">InvestigateTV+ Weekend</title>
-    <desc lang="en">An examination and discussion of politics, personal finance, reports of government corruption, consumer alerts and healthcare issues.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/939cd888-a2d6-4098-bb2f-7d5521215966/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786995684134" />
-  </programme>
-  <programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/f8945c37-95f8-4a5d-909d-4efb89d10dd0/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786741034774" />
-  </programme>
-  <programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="2001">
-    <title lang="en">The Good Side</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/403f1b8a-b2bc-4f08-a0ca-4536c148b1e3/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786737603865" />
-  </programme>
-  <programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/5166815c-08d6-4325-bcc1-749da60b5363/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786748628321" />
-  </programme>
-  <programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="2001">
-    <title lang="en">InvestigateTV+ Weekend</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/03e02df9-9fc7-49d8-9842-6deb0ce16e66/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786748741481" />
-  </programme>
-  <programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/edb706c4-e116-4e67-ad09-dcbd2223ffde/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786750510998" />
-  </programme>
-  <programme start="20261114130000 +0000" stop="20261114133000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/44a4e7ac-4bac-49d8-9370-d1a26fa15f64/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786762332980" />
-  </programme>
-  <programme start="20261114133000 +0000" stop="20261114140000 +0000" channel="2001">
-    <title lang="en">InvestigateTV+ Weekend</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/596c28d3-b4bf-4301-804b-23a04316bb53/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786762438392" />
-  </programme>
-  <programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="2001">
-    <title lang="en">Go Route 66-Stories</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/25a23373-cce5-4941-9ed6-12df96066afd/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786762545455" />
-  </programme>
-  <programme start="20261114143000 +0000" stop="20261114150000 +0000" channel="2001">
-    <title lang="en">The Good Side</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/0b8201e0-15b8-42f8-a72d-ab4f2bbf614f/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786738476735" />
-  </programme>
-  <programme start="20261114150000 +0000" stop="20261114153000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/cd47660a-4a65-4e44-b08a-958d67098258/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786763139989" />
-  </programme>
-  <programme start="20261114153000 +0000" stop="20261114160000 +0000" channel="2001">
-    <title lang="en">InvestigateTV+ Weekend</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/2e9d9a3c-7341-4733-a6d5-2ee7094e2698/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786763435283" />
-  </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="2001">
-    <title lang="en">We the People</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/6da00dcd-2000-43e2-8c2f-ff8f39fbc473/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786764007876" />
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9d8e5449-b2ad-4b13-877c-6d622d31ed5d/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786764135892" />
-  </programme>
-  <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 7:00am</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/HKBhDvqFjdsYyjDfak7q7tD_T12NkMVnM1Q36zAFSn0.png" />
-  </programme>
-  <programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now: Sunrise at 8:00</title>
-    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.titantv.com/HKBhDvqFjdsYyjDfak7q7nwzk7EZ-4KTIFbpFhbGHRg.png" />
-  </programme>
-  <programme start="20261114190000 +0000" stop="20261114193000 +0000" channel="2001">
-    <title lang="en">The Good Side</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/103422ce-625d-4bc3-bf01-996de276de19/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786738699165" />
-  </programme>
-  <programme start="20261114193000 +0000" stop="20261114200000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/082ff4fa-9899-4a33-840c-b063c3c6dbef/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786805087876" />
-  </programme>
-  <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="2001">
-    <title lang="en">We the People 2026</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/6228398f-0c6a-4369-8933-3d4f6ef3dbcc/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786805177710" />
-  </programme>
-  <programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="2001">
-    <title lang="en">Better Call Harry</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4b97ccce-2b21-4770-b270-763d59cf3b48/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786805277914" />
-  </programme>
-  <programme start="20261114220000 +0000" stop="20261114223000 +0000" channel="2001">
-    <title lang="en">InvestigateTV+</title>
-    <desc lang="en">An examination and discussion of politics, personal finance, reports of government corruption, consumer alerts and healthcare issues.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/da41f97f-7ff1-4000-a4c0-50967e6eec2c/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786805449565" />
-  </programme>
-  <programme start="20261114223000 +0000" stop="20261114230000 +0000" channel="2001">
-    <title lang="en">InvestigateTV+</title>
-    <desc lang="en">An examination and discussion of politics, personal finance, reports of government corruption, consumer alerts and healthcare issues.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9b989b7a-6029-4ffb-8c0d-16710b7b1829/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786805476902" />
-  </programme>
-  <programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="2001">
-    <title lang="en">The Good Side</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/149bc145-5518-4730-8785-7cc56fc8a0a0/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786738815187" />
-  </programme>
-  <programme start="20261114233001 +0000" stop="20261115000000 +0000" channel="2001">
-    <title lang="en">We the People 2026</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/a1b811aa-4281-4487-88ff-709ace543ffe/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786805547790" />
-  </programme>
-  <programme start="20261115000001 +0000" stop="20261115003000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/fe7ce869-b26b-4b80-98e3-9cd51418f43c/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786805640909" />
-  </programme>
-  <programme start="20261115003001 +0000" stop="20261115010000 +0000" channel="2001">
-    <title lang="en">An Arizona's Family Original with Yetta Gibson</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/a0ee2a5b-941f-43e5-a5f5-475d4ca5f323/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786805726355" />
-  </programme>
-  <programme start="20261115010001 +0000" stop="20261115013000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/2e2e141a-e88f-49fa-9d57-44f1a7382cb5/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786805859800" />
-  </programme>
   <programme start="20261115013001 +0000" stop="20261115020000 +0000" channel="2001">
     <title lang="en">Uncovered: ANF Investigates</title>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/7715fec8-e68f-4c9b-b90c-2776f8947464/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786805963991" />
-  </programme>
-  <programme start="20261115020001 +0000" stop="20261115030000 +0000" channel="2001">
-    <title lang="en">We the People</title>
-    <desc lang="en">We the People - Celebrating 250 Years</desc>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/085ceeb9-3be5-41f1-b0dd-aec017631dea/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786815420123" />
-  </programme>
-  <programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="2001">
-    <title lang="en">Hawaii News Now at 5:00</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/495a8717-fbac-48d7-8e70-8a64954992fc/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1776909048583" />
   </programme>
   <programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="2001">
     <title lang="en">Hawaii News Now at 5:30pm</title>
@@ -1384,36 +954,35 @@
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/b8adbd35-4f9d-4847-ac77-2d91a439b74a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007119978" />
   </programme>
-  <programme start="20261117143000 +0000" stop="20261117153000 +0000" channel="2001">
-    <title lang="en">Investigate TV +</title>
+  <programme start="20261117143000 +0000" stop="20261117150000 +0000" channel="2001">
+    <title lang="en">Hawaii News Now: Sunrise at 4:30</title>
+    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
     <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/a762c6a1-2e51-4c0e-b513-37eca58b288e/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784182107" />
+    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZwxesdxEmqULzICpMD4THzwM.png" />
   </programme>
-  <programme start="20261117153000 +0000" stop="20261117163000 +0000" channel="2001">
-    <title lang="en">Uncovered: ANF Investigates</title>
+  <programme start="20261117150000 +0000" stop="20261117160000 +0000" channel="2001">
+    <title lang="en">Hawaii News Now: Sunrise at 5:00</title>
+    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
     <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/252bbc58-8cca-4285-9301-860fce477623/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007189481" />
+    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw3098de43SxUYqZGdY2LJ3w.png" />
   </programme>
-  <programme start="20261117163000 +0000" stop="20261117170000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
+  <programme start="20261117160000 +0000" stop="20261117170000 +0000" channel="2001">
+    <title lang="en">Hawaii News Now: Sunrise at 6:00</title>
+    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
     <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/07e99969-1342-4a79-817c-8aca4e3e7639/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784527862" />
+    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw3qf4_VI_W2R9XUZcud2ULI.png" />
   </programme>
-  <programme start="20261117170000 +0000" stop="20261117173000 +0000" channel="2001">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+  <programme start="20261117170000 +0000" stop="20261117180000 +0000" channel="2001">
+    <title lang="en">Hawaii News Now: Sunrise at 7:00am</title>
+    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
     <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/a68c0bc4-d336-42ef-a6e4-67df610a3c2c/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007257856" />
-  </programme>
-  <programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="2001">
-    <title lang="en">The Good Side Show</title>
-    <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/2f83e9fb-de0a-4542-8e46-ba23e3cf306a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007343632" />
+    <icon src="https://cdn.titantv.com/HKBhDvqFjdsYyjDfak7q7tD_T12NkMVnM1Q36zAFSn0.png" />
   </programme>
   <programme start="20261117180000 +0000" stop="20261117190000 +0000" channel="2001">
-    <title lang="en">We the People 2026</title>
+    <title lang="en">Hawaii News Now: Sunrise at 8:00</title>
+    <desc lang="en">Get ready for the day with Hawaii News Now Sunrise. Breaking news from overnight, First Alert Weather and First Alert Traffic all help you to begin your day informed and prepared.</desc>
     <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9b7635ca-44dc-41ba-b3a4-23d427ca0dca/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786985113765" />
+    <icon src="https://cdn.titantv.com/HKBhDvqFjdsYyjDfak7q7nwzk7EZ-4KTIFbpFhbGHRg.png" />
   </programme>
   <programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="2001">
     <title lang="en">Local News Live</title>
@@ -1431,7 +1000,13 @@
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/a08fe815-2aa8-4696-8ca1-37bf7b1497b2/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786991281416" />
   </programme>
-  <programme start="20261117220000 +0000" stop="20261117230000 +0000" channel="2001">
+  <programme start="20261117220000 +0000" stop="20261117223000 +0000" channel="2001">
+    <title lang="en">This is Now: Midday Newscast</title>
+    <desc lang="en">Catch up on news from all over Hawaii with live reports from our digital news center. Ashley Nagaoka and Dillon Ancheta bring you breaking news and trending topics in this midday report.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.titantv.com/RSCrxXxY3Tg9dwX8QXf5xwrJbpO_vIxPysVtPUpXHPA.png" />
+  </programme>
+  <programme start="20261117223000 +0000" stop="20261117230000 +0000" channel="2001">
     <title lang="en">Local News Live</title>
     <desc lang="en">News of the day from the experts who know their communities best – our local journalists across the country.</desc>
     <category lang="en">News</category>
@@ -1461,14 +1036,15 @@
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9673af80-eadc-4cf1-b769-5bde0df7b08a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787004117232" />
   </programme>
   <programme start="20261118020000 +0000" stop="20261118023000 +0000" channel="2001">
-    <title lang="en">We the People</title>
+    <title lang="en">Hawaii News Now First at 4:00</title>
+    <desc lang="en">Hawaii News Now delivers breaking news, First Alert Weather and First Alert Traffic to get you on the road safely. The HNN team offers live reports covering Oahu and the neighbor islands.</desc>
     <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/76391274-5224-4318-92ea-d527cf5d83e0/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787004359975" />
+    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw-SnkSTvZUWxxHGF6szOinc.png" />
   </programme>
   <programme start="20261118023000 +0000" stop="20261118030000 +0000" channel="2001">
-    <title lang="en">Investigate TV +</title>
+    <title lang="en">Hawaii News Now First at 4:30</title>
+    <desc lang="en">Hawaii News Now delivers breaking news, First Alert Weather and First Alert Traffic to get you on the road safely. The HNN team offers live reports covering Oahu and the neighbor islands.</desc>
     <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/84660e36-699c-46bb-823b-96a3c95b6e41/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787004446644" />
   </programme>
   <programme start="20261118030000 +0000" stop="20261118033000 +0000" channel="2001">
     <title lang="en">Hawaii News Now at 5:00</title>
@@ -1480,10 +1056,17 @@
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/3414d544-3232-4472-8a9d-26d216e3f28a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1776908395889" />
   </programme>
-  <programme start="20261118040000 +0000" stop="20261118050000 +0000" channel="2001">
-    <title lang="en">We the People 2026</title>
+  <programme start="20261118040000 +0000" stop="20261118043000 +0000" channel="2001">
+    <title lang="en">Hawaii News Now at 6:00</title>
+    <desc lang="en">Major news from today and what to expect for your evening, can be found on Hawaii News Now at 6p. Chief Meteorologist Jennifer Robbins digs into your First Alert Weather forecast.</desc>
     <category lang="en">News</category>
-    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/39b116f9-773c-4c52-aa13-3fe84f826ccc/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787004538575" />
+    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw5J9QodHlKeDwWxfsoau7_o.png" />
+  </programme>
+  <programme start="20261118043000 +0000" stop="20261118050000 +0000" channel="2001">
+    <title lang="en">Hawaii News Now at 6:30</title>
+    <desc lang="en">Major news from today and what to expect for your evening, can be found on Hawaii News Now at 6p. Chief Meteorologist Jennifer Robbins digs into your First Alert Weather forecast.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw3SKjZUpbTSU6vuPLxoObzU.png" />
   </programme>
   <programme start="20261118050000 +0000" stop="20261118053000 +0000" channel="2001">
     <title lang="en">The Good Side Show</title>
@@ -1500,5 +1083,116 @@
     <title lang="en">We the People</title>
     <category lang="en">News</category>
     <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/fbae0416-ba23-4a90-919f-2b916008057b/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787005902739" />
+  </programme>
+  <programme start="20261118063000 +0000" stop="20261118070000 +0000" channel="2001">
+    <title lang="en">Investigate TV +</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4a2500ea-14c0-47ed-affe-d84a61ec0a77/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006165581" />
+  </programme>
+  <programme start="20261118070000 +0000" stop="20261118073500 +0000" channel="2001">
+    <title lang="en">Hawaii News Now at 9:00</title>
+    <desc lang="en">You don't have to stay up late to get caught up on the news of the day. At 9p, Hawaii News Now covers the major stories of the day, breaking news and your First Alert Weather forecast.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/8462743/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785482618060" />
+  </programme>
+  <programme start="20261118073500 +0000" stop="20261118080000 +0000" channel="2001">
+    <title lang="en">Uncovered: ANF Investigates</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/97539824-2a8c-4526-b0d3-d296f5dab25c/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006336646" />
+  </programme>
+  <programme start="20261118080000 +0000" stop="20261118083500 +0000" channel="2001">
+    <title lang="en">Hawaii News Now at 10:00</title>
+    <desc lang="en">Breaking news, major stories of the day and First Alert Weather get you informed and ready for tomorrow. The Hawaii News Now team delivers a fast-paced newscast at 10p.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.titantv.com/RSCrxXxY3ThGwQaqUkmZw2OBGMtfo5wdRz0ZZmP0jac.png" />
+  </programme>
+  <programme start="20261118083500 +0000" stop="20261118090000 +0000" channel="2001">
+    <title lang="en">We the People 2026</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/e37cc3c4-cfda-435a-8e8e-6a58bf8126cc/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006404850" />
+  </programme>
+  <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="2001">
+    <title lang="en">Uncovered: ANF Investigates</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/39c866ea-0f4e-4523-8d6c-b59df2c9ad36/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006467595" />
+  </programme>
+  <programme start="20261118100000 +0000" stop="20261118103000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4cffa55a-7b88-49e2-b983-047321798032/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006563265" />
+  </programme>
+  <programme start="20261118103000 +0000" stop="20261118113000 +0000" channel="2001">
+    <title lang="en">We the People 2026</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/4af302a7-3b97-4b4b-9af0-25ca7b105909/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006642097" />
+  </programme>
+  <programme start="20261118113000 +0000" stop="20261118120000 +0000" channel="2001">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9cbab267-dcdd-429b-85bc-af3cc656a320/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784023821" />
+  </programme>
+  <programme start="20261118120000 +0000" stop="20261118123000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/e5f428ec-cc27-4590-b370-695cc140756d/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006792842" />
+  </programme>
+  <programme start="20261118123000 +0000" stop="20261118130000 +0000" channel="2001">
+    <title lang="en">Yetta Gibson</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/7b9e8c61-52fa-464c-81da-cb67e5c28ff5/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787006938897" />
+  </programme>
+  <programme start="20261118130000 +0000" stop="20261118133000 +0000" channel="2001">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/8f4d3b21-5693-46ab-bd04-ca1f80ba7370/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007004533" />
+  </programme>
+  <programme start="20261118133000 +0000" stop="20261118140000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/48469f7f-e764-4fce-b75f-526f22949c6e/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007055179" />
+  </programme>
+  <programme start="20261118140000 +0000" stop="20261118143000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/b8adbd35-4f9d-4847-ac77-2d91a439b74a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007119978" />
+  </programme>
+  <programme start="20261118143000 +0000" stop="20261118153000 +0000" channel="2001">
+    <title lang="en">Investigate TV +</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/a762c6a1-2e51-4c0e-b513-37eca58b288e/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784182107" />
+  </programme>
+  <programme start="20261118153000 +0000" stop="20261118163000 +0000" channel="2001">
+    <title lang="en">Uncovered: ANF Investigates</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/252bbc58-8cca-4285-9301-860fce477623/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007189481" />
+  </programme>
+  <programme start="20261118163000 +0000" stop="20261118170000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/07e99969-1342-4a79-817c-8aca4e3e7639/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1785784527862" />
+  </programme>
+  <programme start="20261118170000 +0000" stop="20261118173000 +0000" channel="2001">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Experts share aging, health and caregiving advice for people entering a new chapter of life.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/a68c0bc4-d336-42ef-a6e4-67df610a3c2c/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007257856" />
+  </programme>
+  <programme start="20261118173000 +0000" stop="20261118180000 +0000" channel="2001">
+    <title lang="en">The Good Side Show</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/2f83e9fb-de0a-4542-8e46-ba23e3cf306a/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007343632" />
+  </programme>
+  <programme start="20261118180000 +0000" stop="20261118190000 +0000" channel="2001">
+    <title lang="en">We the People 2026</title>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/9b7635ca-44dc-41ba-b3a4-23d427ca0dca/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1786985113765" />
+  </programme>
+  <programme start="20261118190000 +0000" stop="20261118200000 +0000" channel="2001">
+    <title lang="en">Local News Live</title>
+    <desc lang="en">News of the day from the experts who know their communities best – our local journalists across the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://image-resizer-cloud-cdn.api.graycms.quickplay.com/image/eeb2318d-3a5b-44ca-bd74-295af37cc935/aggr/0-16x9.jpg?width=1920&amp;scalingMode=matchWidth&amp;timestamp=1787007425808" />
   </programme>
 </tv>
